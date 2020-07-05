@@ -1,0 +1,10 @@
+C:\Users\33525\Desktop\BLtoXY\BLtoXY\bin\Debug\BLtoXY.exe.config
+C:\Users\33525\Desktop\BLtoXY\BLtoXY\bin\Debug\BLtoXY.exe
+C:\Users\33525\Desktop\BLtoXY\BLtoXY\bin\Debug\BLtoXY.pdb
+C:\Users\33525\Desktop\BLtoXY\BLtoXY\obj\Debug\BLtoXY.csprojAssemblyReference.cache
+C:\Users\33525\Desktop\BLtoXY\BLtoXY\obj\Debug\BLtoXY.Form1.resources
+C:\Users\33525\Desktop\BLtoXY\BLtoXY\obj\Debug\BLtoXY.Properties.Resources.resources
+C:\Users\33525\Desktop\BLtoXY\BLtoXY\obj\Debug\BLtoXY.csproj.GenerateResource.cache
+C:\Users\33525\Desktop\BLtoXY\BLtoXY\obj\Debug\BLtoXY.csproj.CoreCompileInputs.cache
+C:\Users\33525\Desktop\BLtoXY\BLtoXY\obj\Debug\BLtoXY.exe
+C:\Users\33525\Desktop\BLtoXY\BLtoXY\obj\Debug\BLtoXY.pdb
